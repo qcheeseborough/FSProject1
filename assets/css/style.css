@@ -1,0 +1,26 @@
+.btn{
+	text-decoration: none;
+	display:inline-block;
+	padding:10px;
+	background: #040E35;
+	color:#74C5E8;
+	border-radius:10px;
+}
+
+.btn:hover{
+	background: #74C5E8;
+	color:#040E35;
+}
+
+#hero div{
+	background:#07255F;
+	padding:20px;
+	text-align:center;
+    color: burlywood;
+	max-width:850px;
+	border-radius: 10px
+}
+
+#hero h1, #hero p{
+	margin-bottom:20px;
+}
